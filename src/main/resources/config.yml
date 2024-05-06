@@ -1,0 +1,32 @@
+Material: "IRON_PICKAXE"
+
+SkinAllowed: "&a&lYES"
+SkinDenied: "&4&lNO"
+
+SkinGUI:
+  Size: 54
+  Title: "&fSkins"
+
+Skins:
+  '1':
+    Permission: "bosskins.skin.one"
+    Slot: 0
+    Name: "%skin_permission% &a1"
+    Lore:
+      - "line 1"
+      - "&4&lHA"
+    CustomModelData: 0
+  '2':
+    Permission: "bosskins.skin.two"
+    Slot: 1
+    Name: "%skin_permission%"
+    Lore:
+      - "line 2"
+      - "&4&lHA dfedwd"
+    CustomModelData: 10000
+Placeholders:
+  '1':
+    Material: LIGHT_GRAY_STAINED_GLASS_PANE
+    Slots: [2,3,4,5,6,7]
+    Name: "&f"
+    Lore: []

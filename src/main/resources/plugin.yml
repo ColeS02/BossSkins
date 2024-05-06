@@ -1,0 +1,8 @@
+name: BossSkins
+version: '${project.version}'
+main: com.unclecole.bossskins.BossSkins
+api-version: 1.17
+prefix: BossSkins
+authors: [ UncleCole ]
+commands:
+  skin:
